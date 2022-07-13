@@ -1,0 +1,71 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: aqua;
+  }
+  .dot {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: white;
+  }
+  .dotbox {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    animation: rotatedot 1s ease-in-out infinite;
+  }
+  @keyframes rotatedot {
+    from {
+      transform: rotateZ(0deg);
+    }
+    to {
+      transform: rotateZ(180deg);
+    }
+  }
+  
+  .square {
+    width: 20px;
+    height: 120px;
+    background-color: white;
+    animation: scalesquare 1s ease-in-out infinite;
+  }
+  .square1 {
+    animation-delay: 0s;
+  }
+  .square2 {
+    animation-delay: 0.1s;
+  }
+  .square3 {
+    animation-delay: 0.2s;
+  }
+  .square4 {
+    animation-delay: 0.3s;
+  }
+  .square5 {
+    animation-delay: 0.4s;
+  }
+  .squarebox {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  @keyframes scalesquare {
+    0% {
+      transform: scaleY(0);
+    }
+    25% {
+      transform: scaleY(2);
+    }
+    50% {
+      transform: scaleY(00);
+    }
+  }
+  
