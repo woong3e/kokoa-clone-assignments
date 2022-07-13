@@ -2,7 +2,7 @@
 
 코코아 클론 챌린지 과제
 
-과제1
+과제1<br>
 <img src="screenshots/assignment1.png" width="480px" height="480px">
 과제2
 <img src="/Users/mac/Desktop/kokoa-clone-assignments/screenshots/assignment2.png" width="480px" height="480px">
