@@ -4,11 +4,11 @@
 
 과제1<br>
 <img src="screenshots/assignment1.png" width="480px" height="480px">
-과제2
-<img src="/Users/mac/Desktop/kokoa-clone-assignments/screenshots/assignment2.png" width="480px" height="480px">
-과제3
-<img src="/Users/mac/Desktop/kokoa-clone-assignments/screenshots/assignment3.png" width="480px" height="480px">
-과제4
-<img src="/Users/mac/Desktop/kokoa-clone-assignments/screenshots/assignment4.gif" width="480px" height="480px">
-과제5
-<img src="/Users/mac/Desktop/kokoa-clone-assignments/screenshots/assignment5.png" width="480px" height="480px">
+과제2<br>
+<img src="screenshots/assignment2.png" width="480px" height="480px">
+과제3<br>
+<img src="screenshots/assignment3.png" width="480px" height="480px">
+과제4<br>
+<img src="screenshots/assignment4.gif" width="480px" height="480px">
+과제5<br>
+<img src="screenshots/assignment5.png" width="480px" height="480px">
